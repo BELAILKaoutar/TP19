@@ -14,5 +14,11 @@ http://localhost:8761/
 http://localhost:8761/
 
 <img width="1366" height="556" alt="4" src="https://github.com/user-attachments/assets/a3a1f9f4-78d2-49fa-9169-d5cf47255aee" />
+
+http://localhost:8888/SERVICE-CLIENT/clients
+
 <img width="1366" height="511" alt="5" src="https://github.com/user-attachments/assets/c5f6e7c1-f0d5-4b03-94fd-06b97b980be7" />
+
+http://localhost:8089/voitures
+
 <img width="1366" height="604" alt="6" src="https://github.com/user-attachments/assets/875918a8-e77d-48db-8369-f4f62508bd8b" />
